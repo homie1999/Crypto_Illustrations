@@ -7,12 +7,12 @@ Visual guides to cryptographic algorithms, designed to make complex security con
 ### AES (Advanced Encryption Standard)
 Block cipher encryption process visualization.
 
-![AES Illustration](./AES.png)
+![AES Illustration](/images/AES.png)
 
 ### S-DES (Simplified DES)
 Educational cipher demonstrating DES principles.
 
-![S-DES Illustration](./S-DES.png)
+![S-DES Illustration](/images/S-DES.png)
 
 ## Purpose
 These illustrations are created to help students, developers, and security enthusiasts understand how cryptographic algorithms work at a conceptual level. Each diagram emphasizes clarity and accuracy while remaining accessible to those learning cryptography.

